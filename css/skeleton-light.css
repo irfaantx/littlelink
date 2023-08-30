@@ -93,8 +93,8 @@ body {
   background-image: url('../bg.png');
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: top;
+  /* background-attachment: fixed; */
+  background-position: center;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
